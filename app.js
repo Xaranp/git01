@@ -1,0 +1,1 @@
+console.log('Tu "hola" me come la cola');
